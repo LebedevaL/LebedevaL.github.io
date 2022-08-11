@@ -1,0 +1,231 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.navid{
+    width: 100%;
+    height: 60px;
+    background: #153b50;
+    }
+.logo{
+    color: white;
+    font-size: 25px;
+    line-height:60px;
+    padding-left: 260px;
+    float: left;
+    }
+.menu{
+    float:left;
+    padding-left: 289px;
+}
+
+.menu li{
+    float: left;
+    line-height: 18px;
+    color: #ffffff;
+    margin-right: 28px;
+    font-size: 17px;
+    text-transform: uppercase;
+    margin:23px
+}
+.maine{
+    width: 100%;
+    height: 750px;
+    background:url(../img/w2.jpg) 90% 100%/auto 85% no-repeat  , url(../img/w.jpg)  center/cover no-repeat;
+    }
+.title_container{
+    float:left;
+    margin: 200px 0px 0px 400px;
+    color: #153752;
+    text-align: center
+}
+.title_container h1{
+    font-size: 60px;
+    font-weight: bolder
+    }
+.title_container h4{
+    margin-top: 25px;
+    font-size: 20px;
+    color: #8ea0a4;
+}
+.title_container input{
+    color: #6a7878;
+    height: 40px;
+    text-align: center;
+    border: 3px solid #96a4a4;
+    background: none;
+    border-radius: 7px;
+    font-size: 13px;
+    padding: 0px 10px;
+   margin: 37px 8px 0px 8px
+    }
+.main h2{
+    text-align: center;
+    border-bottom: 4px solid #ea7901;
+    padding-bottom: 15px;
+    width: 150px;
+    font-size: 25px;
+    margin-left: calc(50% - 75px);
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-weight:bolder;
+    }
+   
+        
+.im{
+    width: 70px;
+    height: 70px;
+}
+.img{
+    display: block;
+    margin: 20px 0px 0px 630px;
+    }
+
+.text2 {
+    
+    font-size:15px;
+    margin: 220px 0px 0px 450px;
+    text-align:start;
+    color: #505457;
+    width: 650px;
+    
+    
+}
+.text2 input{
+    font-size: 15px;
+    background: none;
+    border: 2px solid #505457;
+    border-radius: 7px;
+    padding: 5px 5px 5px 30px;
+    color: #505457;
+    text-align: center;
+    height: 30px;
+    margin: 15px 0px 0px 250px;
+    }
+.skills h2{
+    font-weight: bolder; 
+    color:#153b50;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 4px solid #ea7901;
+    padding-bottom: 15px;
+    width: 170px;
+    margin-left: calc(50% - 85px);
+    margin-top: 200px;
+   }
+
+.bga{
+    width: 100%;
+    height: 500px;
+    background: url(../img/img3.jpg)  0% 100%/auto 110% no-repeat;
+    }
+.flex{
+
+ width: 1100px;
+    margin: 0 auto;
+}   
+
+.h{
+    display: block;
+    margin: 150px 0px 0px 100px; 
+    margin-left: 10px;
+}
+
+.l{
+    color: #f38852;
+    font-weight: bolder;
+    margin: 200px 20px 0px 0px;
+}
+
+
+.keys h2{
+   font-weight: bolder;
+    color:#153b50;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 4px solid #ea7901;
+    padding-bottom: 15px;
+    width: 100px;
+    margin-left: calc(50% - 50px);
+    margin-top: 200px;
+    }
+.parag{
+     font-size:15px;
+    margin: 80px 0px 0px 450px;
+    text-align:start;
+    color: #505457;
+    width: 650px;
+}
+.table_1{
+    width: 900px;
+    height: 465px;
+    display: block;
+    margin: 40px 0px 0px 300px;
+    }
+.viv{
+    width: 900px;
+    height: 70px;
+    text-align:left;
+    float: left;
+    margin: 25px 0px 0px 300px;
+    float: left;
+     color: #153b50;
+    
+    }
+.viv_2{
+    width: 670px;
+    height: 55px;
+    float:left;
+     margin: 0px 0px 700px 500px;
+    text-align: start;
+     color: #153b50;
+    
+}
+    
+.viv h3{
+    font-weight: bolder;
+    color: #153b50;
+    }
+    
+.viv_2 h4{
+    font-size: 17px;
+    font-weight: bolder;
+    color: #153b50;
+}
+.viv input{
+    color: white;
+    height: 34px;
+    width: 155px;
+    text-transform: uppercase;
+    background: #64b5ae;
+    font-size: 15px;
+    border-radius: 7px; 
+}
+
+.clear{
+    clear:left;
+}
+
+.raschet h2{
+    font-size: 25px;
+    color: #153b50;
+    font-weight: bolder;
+   float: left;
+    margin: 0px 0px 2000px 500px;  
+}
+.mySelect{
+    display: block;
+    width: 780px;
+    height: 54px;
+    background: #ececec;
+    }
+
+
+
+
+
+
+
+
+

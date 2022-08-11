@@ -1,0 +1,64 @@
+
+    marging: 0;
+    poddinfg: 0;
+
+.title{
+    padding: 20px;
+}
+
+a:visited{
+    color: red
+}
+
+a:link{
+    color: brown
+}
+a:hover{
+    color: blue    
+}
+input:focus{
+    color: fuchsia
+}
+input:disabled+span{
+    border: 6px solid red
+}
+input:enabled+span{
+    border: 2px solid dreen
+}
+span:empty:after{
+    content: "<>";
+    color: aqua
+}
+input:invalid{
+    background: red
+}
+input:valid{
+    background: green
+}
+input:required{
+background: yellow;
+    border: red solid 8px
+    
+}
+input:optional{
+    background: gray;
+    border: red solid 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
