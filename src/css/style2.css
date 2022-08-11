@@ -49,6 +49,25 @@ input:optional{
 
 
 
+.viv{
+    width: 900px;
+    height: 70px;
+    text-align:left;
+    float: left;
+    margin: 25px 0px 0px 300px;
+    float: left;
+     color: #153b50;
+    
+    }
+.viv_2{
+    width: 670px;
+    height: 55px;
+    float:left;
+     margin: 0px 0px 700px 500px;
+    text-align: start;
+     color: #153b50;
+    
+    
 
 
 
